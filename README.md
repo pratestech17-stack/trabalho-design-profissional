@@ -134,3 +134,168 @@ de maior complexidade.
 
 ### 6. Feedback dos colegas
 
+---
+
+## Eduardo Prates Garcia
+
+> **Contexto da projeção:** atualmente atuo no mercado financeiro e pretendo continuar me desenvolvendo nessa área. Para fins deste trabalho acadêmico, o plano abaixo considera uma trajetória hipotética em **Engenharia de Dados aplicada a bancos, corretoras, escritórios de investimentos e fintechs**, conectando tecnologia ao meu conhecimento de negócios.
+
+### 1. Análise do GitHub
+
+**Usuário:** [pratestech17-stack](https://github.com/pratestech17-stack)
+
+#### Identificação do perfil
+
+O perfil está em fase inicial de construção. Na data desta análise, não existe um repositório público chamado `pratestech17-stack`, que seria utilizado para exibir um README de apresentação no perfil. Por isso, ainda faltam uma descrição profissional, uma apresentação das competências técnicas, formas de contato e projetos destacados.
+
+Essa ausência reduz a clareza do posicionamento profissional. Um próximo passo importante é criar um README de perfil contendo uma apresentação curta, a relação entre tecnologia e mercado financeiro, as tecnologias estudadas e os projetos em desenvolvimento.
+
+#### Repositórios públicos e colaborações
+
+| Repositório | Tipo | Situação observada | Relação com a área |
+|---|---|---|---|
+| [PetCareManager](https://github.com/pratestech17-stack/PetCareManager) | Projeto próprio | Repositório público, ainda sem arquivos ou README, com 1 estrela | Pode evoluir para um projeto com modelagem de banco de dados, cadastro de animais, consultas SQL e histórico de atendimentos |
+| [trabalho-design-profissional](https://github.com/pratestech17-stack/trabalho-design-profissional) | Fork acadêmico | Utilizado para colaboração neste trabalho por meio de branch, commit e pull request | Demonstra o uso de GitHub em equipe e a aplicação de um fluxo colaborativo |
+| [FinView](https://github.com/ArthurC0sta/FinView) | Colaboração pública | Projeto em Python no qual possuo acesso como colaborador; ainda não possui README público | Tem relação direta com tecnologia e mercado financeiro, podendo ser transformado em um projeto de portfólio voltado a dados |
+
+O repositório próprio com maior número de estrelas é o **PetCareManager**, com 1 estrela. Não foram identificados projetos fixados no perfil. O número reduzido de projetos documentados ainda não demonstra domínio técnico, mas o **FinView** representa uma oportunidade relevante para unir conhecimentos de finanças, programação e análise de dados.
+
+#### Evolução de seguidores
+
+Não existe uma série histórica registrada que permita afirmar crescimento ou queda no número de seguidores do GitHub. Portanto, a evolução não pode ser medida apenas com a observação atual. A partir deste trabalho, o indicador será acompanhado mensalmente, juntamente com o número de contribuições, projetos publicados, estrelas e interações recebidas.
+
+#### Avaliação crítica
+
+O principal ponto positivo é a possibilidade de criar projetos ligados ao setor financeiro, área na qual já possuo experiência prática. Os principais pontos de melhoria são:
+
+- criar um README de apresentação para o perfil;
+- adicionar descrição e documentação aos projetos;
+- publicar códigos funcionais, e não apenas criar repositórios;
+- registrar contribuições frequentes e autorais;
+- desenvolver projetos com SQL, Python, modelagem de dados e processos de ETL;
+- utilizar commits descritivos e pull requests em trabalhos colaborativos.
+
+### 2. Análise do LinkedIn
+
+**Perfil:** [Eduardo Prates Garcia](https://www.linkedin.com/in/eduardo-prates-garcia)
+
+#### Cargo-alvo, área de atuação e stack
+
+Minha atuação real está relacionada ao mercado financeiro. Para a projeção acadêmica deste trabalho, o cargo-alvo considerado é **Engenheiro de Dados Júnior no setor financeiro**, com interesse em bancos, fintechs, corretoras e empresas de investimentos.
+
+A stack técnica a ser desenvolvida inclui:
+
+- SQL e bancos de dados relacionais;
+- Python e Pandas;
+- modelagem de dados;
+- processos de ETL e ELT;
+- Git e GitHub;
+- PostgreSQL;
+- ferramentas de orquestração, como Apache Airflow;
+- transformação de dados com dbt;
+- fundamentos de computação em nuvem;
+- noções de Spark e Data Warehouses.
+
+#### Headline profissional
+
+Na visualização pública indexada, a headline destaca **Análise e Desenvolvimento de Sistemas** e **SDR**. Ela comunica formação e experiência comercial, mas não deixa clara a atuação atual como assessor de investimentos nem a hipótese de direcionamento para Engenharia de Dados.
+
+Uma headline mais alinhada ao cenário analisado seria:
+
+> **Assessor de Investimentos | Estudante de ADS | Engenharia de Dados aplicada ao Mercado Financeiro | SQL e Python**
+
+Essa versão preserva minha experiência real, apresenta minha formação e inclui palavras-chave relacionadas ao direcionamento técnico.
+
+#### Crescimento da rede
+
+Não há dados históricos públicos suficientes para calcular a evolução da quantidade de seguidores e conexões ao longo do tempo. Para transformar esse item em um indicador mensurável, registrarei mensalmente:
+
+- total de conexões;
+- total de seguidores;
+- novos contatos da área de dados e do mercado financeiro;
+- visualizações do perfil;
+- interações recebidas nas publicações.
+
+A meta inicial será criar conexões relevantes, priorizando profissionais de Engenharia de Dados, tecnologia financeira, bancos, fintechs e análise de investimentos.
+
+#### Atividade e engajamento
+
+Foram encontradas interações públicas em conteúdos ligados ao Grupo Barsi e ao mercado de assessoria de investimentos. Isso demonstra presença no ambiente profissional, porém ainda existe espaço para uma atuação mais autoral.
+
+Como melhoria, o perfil pode publicar conteúdos que conectem as duas áreas, por exemplo:
+
+- como dados apoiam decisões de investimento;
+- qualidade e governança de dados no mercado financeiro;
+- projetos acadêmicos com dados públicos da CVM ou do Banco Central;
+- aprendizados de SQL e Python aplicados a informações financeiras;
+- evolução do projeto FinView.
+
+### 3. Instagram e outras redes profissionais
+
+**Perfil:** [@eduardoprates.oficial](https://www.instagram.com/eduardoprates.oficial)
+
+Na data da análise, o perfil possuía **13 seguidores** e seguia **21 contas**. A bio apresenta conteúdos sobre bastidores de vendas, carreira e investimentos, além de um link para o Linktree.
+
+O posicionamento está coerente com minha atuação no mercado financeiro e transmite uma proposta profissional mais clara do que o GitHub. Por outro lado, ainda não existe alinhamento explícito com Engenharia de Dados. Caso o cenário acadêmico fosse levado adiante, o perfil poderia incluir conteúdos curtos sobre tecnologia no setor financeiro, sem abandonar a identidade já construída.
+
+Uma linha editorial possível seria **“dados, carreira e investimentos na prática”**, abordando exemplos simples de indicadores financeiros, organização de informações, automações e projetos pessoais.
+
+Não foram identificados perfis profissionais ativos em plataformas como Dev.to, Medium ou portfólio próprio. No curto prazo, o GitHub e o LinkedIn devem ser priorizados, pois são mais relevantes para demonstrar projetos técnicos e evolução profissional.
+
+### 4. Plano de Carreira
+
+#### Curto prazo - 6 a 12 meses
+
+- desenvolver fundamentos de SQL, Python, bancos de dados e Git;
+- criar um README profissional no GitHub;
+- documentar e evoluir o projeto FinView;
+- desenvolver um projeto de ETL utilizando dados públicos da CVM, do Banco Central ou da B3;
+- publicar os projetos com instruções de instalação, arquitetura e resultados;
+- atualizar o LinkedIn para conectar a experiência financeira ao desenvolvimento técnico.
+
+#### Médio prazo - 1 a 3 anos
+
+- aprofundar conhecimentos em PostgreSQL, Airflow, dbt, APIs e computação em nuvem;
+- construir pelo menos três projetos completos de portfólio;
+- participar de projetos de dados no setor financeiro;
+- buscar uma oportunidade de entrada como Analista de Dados, Analista de BI ou Engenheiro de Dados Júnior em banco, fintech, corretora ou empresa de investimentos;
+- desenvolver conhecimentos sobre governança, segurança, LGPD e qualidade de dados financeiros.
+
+#### Longo prazo - 3 a 5 anos ou mais
+
+- consolidar atuação como Engenheiro de Dados no setor financeiro;
+- projetar e manter pipelines confiáveis e escaláveis;
+- participar de decisões sobre arquitetura, governança e qualidade de dados;
+- utilizar o conhecimento de investimentos para traduzir necessidades de negócio em soluções técnicas;
+- assumir projetos de maior complexidade e, futuramente, responsabilidades de liderança técnica.
+
+### 5. PDI - Plano de Desenvolvimento Individual
+
+| Objetivo | Ação | Prazo | Indicador de progresso |
+|---|---|---:|---|
+| Fortalecer SQL | Estudar consultas, joins, subqueries, funções de janela e modelagem relacional | 4 meses | Resolver exercícios semanais e publicar 1 projeto com banco de dados |
+| Desenvolver Python para dados | Praticar Python, Pandas, tratamento de erros, APIs e arquivos CSV/JSON | 6 meses | Criar 2 projetos documentados no GitHub |
+| Aprender ETL | Construir um pipeline com dados públicos do mercado financeiro | 8 meses | Pipeline automatizado, testado e documentado |
+| Melhorar o GitHub | Criar README de perfil e documentar PetCareManager e FinView | 2 meses | Perfil completo e pelo menos 2 repositórios com README |
+| Aprender Cloud | Estudar os fundamentos de uma plataforma de nuvem | 12 meses | Concluir uma trilha introdutória e publicar 1 projeto em nuvem |
+| Desenvolver comunicação técnica | Escrever documentação e explicar decisões de projeto | 6 meses | Publicar 6 registros de aprendizagem no LinkedIn |
+| Ampliar networking | Conectar-se com profissionais de dados e tecnologia financeira | 12 meses | Registrar crescimento mensal de conexões e participar de 2 eventos da área |
+
+### 6. Feedback dos colegas
+
+> Esta parte deve ser preenchida pelos colegas em commits próprios, para que a autoria dos feedbacks também fique registrada no histórico do GitHub.
+
+#### Feedback de Arthur Costa de Paulo
+
+- Qualidade e consistência dos perfis digitais:
+- Clareza e viabilidade do Plano de Carreira:
+- Coerência do PDI com Engenharia de Dados:
+- Sugestão concreta de melhoria:
+
+#### Feedback de Felipe Gonçales de Souza Moura
+
+- Qualidade e consistência dos perfis digitais:
+- Clareza e viabilidade do Plano de Carreira:
+- Coerência do PDI com Engenharia de Dados:
+- Sugestão concreta de melhoria:
+
