@@ -142,166 +142,125 @@ de maior complexidade.
 
 **Usuário:** [pratestech17-stack](https://github.com/pratestech17-stack)
 
-#### Identificação do perfil
+Meu perfil no GitHub ainda está no começo. Atualmente, não possuo um README de apresentação no perfil, por isso ainda faltam informações sobre quem eu sou, o que estou estudando e quais são meus objetivos profissionais.
 
-Meu perfil está em fase inicial de construção. Na data desta análise, ainda não possuo um repositório público chamado `pratestech17-stack`, que poderia ser utilizado para exibir um README de apresentação no perfil. Por isso, ainda faltam uma descrição profissional, uma apresentação das competências técnicas, formas de contato e projetos destacados.
+#### Repositórios públicos
 
-Um próximo passo importante é criar esse README com uma apresentação curta, meu objetivo de ingressar em Engenharia de Dados, as tecnologias que estou estudando e os projetos que pretendo desenvolver.
+- **[PetCareManager](https://github.com/pratestech17-stack/PetCareManager):** projeto próprio que ainda está vazio e precisa ser desenvolvido e documentado. Possui 1 estrela.
+- **[trabalho-design-profissional](https://github.com/pratestech17-stack/trabalho-design-profissional):** fork criado para participar deste trabalho por meio de branch, commit e pull request.
+- **[FinView](https://github.com/ArthurC0sta/FinView):** projeto público em Python no qual participo como colaborador. Pode ser desenvolvido como um projeto relacionado a dados e mercado financeiro.
 
-#### Repositórios públicos e colaborações
-
-| Repositório | Tipo | Situação observada | Relação com a área |
-|---|---|---|---|
-| [PetCareManager](https://github.com/pratestech17-stack/PetCareManager) | Projeto próprio | Repositório público, ainda sem arquivos ou README, com 1 estrela | Pode evoluir para um projeto com modelagem de banco de dados, cadastro de animais, consultas SQL e histórico de atendimentos |
-| [trabalho-design-profissional](https://github.com/pratestech17-stack/trabalho-design-profissional) | Fork acadêmico | Utilizado para colaboração neste trabalho por meio de branch, commit e pull request | Demonstra o uso de GitHub em equipe e a aplicação de um fluxo colaborativo |
-| [FinView](https://github.com/ArthurC0sta/FinView) | Colaboração pública | Projeto desenvolvido em Python e relacionado ao mercado financeiro; ainda não possui README público | Pode ser desenvolvido como um projeto de portfólio que una programação, finanças e tratamento de dados |
-
-O repositório próprio com maior número de estrelas é o **PetCareManager**, com 1 estrela. Não foram identificados projetos fixados no perfil. O número reduzido de projetos documentados ainda não demonstra conhecimentos suficientes para uma vaga na área, mas os repositórios existentes podem ser desenvolvidos e utilizados como base para a construção de um portfólio.
+O **PetCareManager** é o meu repositório próprio com mais estrelas. Ainda não possuo projetos fixados no perfil.
 
 #### Evolução de seguidores
 
-Ainda não existe uma série histórica registrada que permita afirmar crescimento ou queda no número de seguidores do GitHub. Portanto, essa evolução não pode ser medida apenas com a observação atual.
+Não tenho um histórico que mostre o crescimento dos seguidores do meu GitHub. A partir deste trabalho, pretendo acompanhar mensalmente o número de seguidores, contribuições, projetos publicados e estrelas recebidas.
 
-A partir deste trabalho, pretendo acompanhar mensalmente o número de seguidores, contribuições, projetos publicados, estrelas e interações recebidas. Esses indicadores poderão demonstrar a evolução do meu perfil ao longo da graduação.
+#### Pontos de melhoria
 
-#### Avaliação crítica
-
-Meu GitHub ainda está em uma etapa inicial. Os principais pontos de melhoria são:
-
-- criar um README de apresentação para o perfil;
-- adicionar descrição e documentação aos projetos;
-- publicar códigos funcionais, e não apenas criar repositórios;
-- desenvolver projetos com SQL, Python, modelagem de dados e processos de ETL;
-- registrar contribuições frequentes e autorais;
-- utilizar commits descritivos e pull requests em trabalhos colaborativos.
+- criar um README de apresentação;
+- desenvolver os projetos que já foram criados;
+- adicionar descrições e instruções nos repositórios;
+- publicar projetos usando Python, SQL e banco de dados;
+- realizar commits com mais frequência.
 
 ### 2. Análise do LinkedIn
 
 **Perfil:** [Eduardo Prates Garcia](https://www.linkedin.com/in/eduardo-prates-garcia)
 
-#### Cargo-alvo, área de atuação e stack
+#### Cargo-alvo e conhecimentos técnicos
 
-Meu objetivo profissional é ingressar em **Engenharia de Dados**, preferencialmente em empresas do mercado financeiro, como bancos, fintechs, corretoras e plataformas de investimentos.
+Meu objetivo é ingressar na área de **Engenharia de Dados**, de preferência em uma empresa do mercado financeiro, como banco, fintech, corretora ou plataforma de investimentos.
 
-Inicialmente, pretendo buscar oportunidades de estágio ou posições de entrada que permitam desenvolver experiência prática com dados, bancos de dados e programação.
+No início, pretendo buscar uma oportunidade de estágio ou uma vaga de entrada na área de dados.
 
-A stack técnica que pretendo desenvolver inclui:
+Os principais conhecimentos que pretendo desenvolver são:
 
+- Python;
 - SQL;
-- Python e Pandas;
-- bancos de dados relacionais;
-- modelagem de dados;
-- processos de ETL e ELT;
+- banco de dados;
 - Git e GitHub;
-- PostgreSQL;
-- fundamentos de computação em nuvem;
-- conceitos de Data Warehouse e processamento de dados.
+- organização e tratamento de dados;
+- conceitos básicos de ETL e computação em nuvem.
 
 #### Headline profissional
 
-A headline do perfil deve apresentar de forma direta minha formação, o cargo que pretendo alcançar e as principais tecnologias que estou desenvolvendo.
+Uma headline mais alinhada ao meu objetivo seria:
 
-Uma opção mais alinhada ao meu objetivo profissional seria:
+> **Estudante de Análise e Desenvolvimento de Sistemas | Foco em Engenharia de Dados | Python | SQL | Mercado Financeiro**
 
-> **Estudante de Análise e Desenvolvimento de Sistemas | Foco em Engenharia de Dados | SQL | Python | Mercado Financeiro**
-
-Essa versão contém palavras-chave relacionadas à área, apresenta meu nível atual como estudante e deixa claro o setor no qual pretendo construir minha carreira.
+Essa headline mostra minha formação, a área em que pretendo trabalhar e as principais tecnologias que estou estudando.
 
 #### Crescimento da rede
 
-Não há dados históricos públicos suficientes para calcular a evolução da quantidade de seguidores e conexões ao longo do tempo.
-
-Para acompanhar esse crescimento, pretendo registrar mensalmente:
-
-- total de conexões;
-- total de seguidores;
-- novos contatos da área de dados;
-- conexões com profissionais do mercado financeiro;
-- visualizações do perfil;
-- interações recebidas nas publicações.
-
-A meta será construir uma rede relevante, priorizando estudantes, professores e profissionais de Engenharia de Dados, bancos, fintechs e tecnologia financeira.
+Não possuo dados antigos para comparar o crescimento das minhas conexões e seguidores. Pretendo acompanhar esses números mensalmente e aumentar minha rede com estudantes, professores e profissionais de tecnologia e do mercado financeiro.
 
 #### Atividade e engajamento
 
-Meu perfil ainda pode evoluir na produção de conteúdo próprio relacionado à tecnologia. Como melhoria, pretendo compartilhar projetos acadêmicos, aprendizados e atividades desenvolvidas durante a graduação.
+Meu perfil ainda pode melhorar na produção de conteúdo sobre tecnologia. Pretendo compartilhar projetos da faculdade, cursos concluídos e aprendizados relacionados a Python, SQL e dados.
 
-Alguns temas que podem conectar Engenharia de Dados ao mercado financeiro são:
-
-- como dados apoiam decisões financeiras;
-- qualidade e segurança de dados em bancos e fintechs;
-- projetos com dados públicos da CVM ou do Banco Central;
-- aprendizados de SQL e Python aplicados a informações financeiras;
-- desenvolvimento e evolução do projeto FinView.
+Também posso criar conteúdos que relacionem tecnologia e finanças, mostrando como os dados são utilizados por bancos, corretoras e outras empresas do setor.
 
 ### 3. Instagram e outras redes profissionais
 
 **Perfil:** [@eduardoprates.oficial](https://www.instagram.com/eduardoprates.oficial)
 
-Na data da análise, o perfil possuía **13 seguidores** e seguia **21 contas**. A bio apresenta temas relacionados a vendas, carreira e investimentos, além de um link para o Linktree.
+Na data da análise, meu Instagram possuía **13 seguidores** e seguia **21 contas**. A bio apresenta assuntos relacionados a vendas, carreira e investimentos, além de um link para o Linktree.
 
-O perfil demonstra interesse pelo mercado financeiro, mas ainda não apresenta conteúdos relacionados à Engenharia de Dados. Para aproximá-lo do objetivo profissional definido neste trabalho, poderia incluir publicações simples sobre tecnologia, organização de informações, indicadores financeiros e projetos desenvolvidos durante a faculdade.
+O perfil demonstra interesse pelo mercado financeiro, mas ainda não apresenta conteúdos relacionados à Engenharia de Dados. Como melhoria, posso publicar alguns conteúdos simples sobre tecnologia, faculdade e projetos desenvolvidos durante o curso.
 
-Uma linha de conteúdo possível seria **“dados, carreira e investimentos na prática”**, relacionando tecnologia ao setor financeiro de maneira acessível.
-
-Não foram identificados perfis profissionais ativos em plataformas como Dev.to, Medium ou portfólio próprio. No curto prazo, pretendo priorizar o GitHub e o LinkedIn, pois são as plataformas mais adequadas para apresentar projetos técnicos, habilidades e evolução profissional.
+Atualmente, não possuo atuação relevante em plataformas como Medium ou Dev.to. Por isso, pretendo priorizar o LinkedIn e o GitHub para construir minha presença profissional.
 
 ### 4. Plano de Carreira
 
 #### Curto prazo - 6 a 12 meses
 
-- desenvolver fundamentos de SQL, Python, bancos de dados e Git;
-- criar um README profissional no GitHub;
-- documentar e evoluir os projetos existentes;
-- desenvolver um projeto de ETL utilizando dados públicos da CVM ou do Banco Central;
-- publicar projetos com instruções de execução, tecnologias utilizadas e resultados;
-- atualizar o LinkedIn para comunicar o objetivo de ingressar em Engenharia de Dados;
-- buscar oportunidades de estágio ou posições de entrada na área de dados.
+- aprender os fundamentos de Python, SQL e banco de dados;
+- melhorar meu perfil no GitHub;
+- desenvolver e documentar pelo menos dois projetos;
+- criar um projeto utilizando dados públicos do mercado financeiro;
+- buscar uma oportunidade de estágio ou vaga de entrada na área de dados.
 
 #### Médio prazo - 1 a 3 anos
 
-- conquistar a primeira experiência profissional na área de dados;
-- aprofundar conhecimentos em PostgreSQL, APIs, ETL e computação em nuvem;
-- construir pelo menos três projetos completos de portfólio;
-- participar de projetos relacionados a dados financeiros;
-- buscar evolução para uma posição de Engenheiro de Dados Júnior;
-- desenvolver conhecimentos sobre governança, segurança, LGPD e qualidade de dados.
+- conquistar minha primeira experiência profissional na área;
+- melhorar meus conhecimentos em tratamento e armazenamento de dados;
+- aprender conceitos de ETL e computação em nuvem;
+- construir um portfólio com pelo menos três projetos;
+- buscar uma posição como Engenheiro de Dados Júnior.
 
 #### Longo prazo - 3 a 5 anos ou mais
 
-- consolidar minha carreira como Engenheiro de Dados no setor financeiro;
-- projetar e manter pipelines de dados confiáveis e escaláveis;
-- participar de decisões sobre arquitetura, governança e qualidade de dados;
-- desenvolver soluções para bancos, fintechs, corretoras ou plataformas de investimentos;
-- assumir projetos de maior complexidade e buscar evolução para o nível pleno.
+- consolidar minha carreira como Engenheiro de Dados;
+- trabalhar com dados em uma empresa do mercado financeiro;
+- participar da criação e manutenção de bancos e fluxos de dados;
+- evoluir profissionalmente para uma posição de nível pleno.
 
 ### 5. PDI - Plano de Desenvolvimento Individual
 
 | Objetivo | Ação | Prazo | Indicador de progresso |
 |---|---|---:|---|
-| Fortalecer SQL | Estudar consultas, joins, subqueries e modelagem relacional | 4 meses | Resolver exercícios semanais e publicar 1 projeto com banco de dados |
-| Desenvolver Python para dados | Praticar Python, Pandas, APIs e arquivos CSV/JSON | 6 meses | Criar 2 projetos documentados no GitHub |
-| Aprender ETL | Construir um pipeline com dados públicos do mercado financeiro | 8 meses | Publicar um pipeline funcional e documentado |
-| Melhorar o GitHub | Criar README de perfil e documentar os projetos existentes | 2 meses | Perfil completo e pelo menos 2 repositórios com README |
-| Aprender Cloud | Estudar os fundamentos de uma plataforma de nuvem | 12 meses | Concluir uma trilha introdutória e publicar 1 projeto em nuvem |
-| Desenvolver comunicação técnica | Escrever documentação e explicar decisões de projeto | 6 meses | Publicar 6 registros de aprendizagem no LinkedIn |
-| Ampliar networking | Conectar-se com estudantes e profissionais da área | 12 meses | Registrar crescimento mensal e participar de 2 eventos de tecnologia |
+| Aprender SQL | Estudar consultas e modelagem de banco de dados | 4 meses | Publicar 1 projeto usando SQL |
+| Aprender Python | Praticar programação e tratamento de dados | 6 meses | Publicar 2 projetos no GitHub |
+| Melhorar o GitHub | Criar README de perfil e documentar os projetos | 2 meses | Ter pelo menos 2 repositórios completos |
+| Conhecer ETL e Cloud | Fazer cursos introdutórios sobre os temas | 12 meses | Criar 1 projeto simples utilizando esses conceitos |
+| Melhorar o LinkedIn | Atualizar o perfil e publicar aprendizados | 6 meses | Realizar pelo menos 6 publicações |
 
 ### 6. Feedback dos colegas
 
-> Esta parte deve ser preenchida pelos colegas em commits próprios, para que a autoria dos feedbacks também fique registrada no histórico do GitHub.
+> Esta parte deve ser preenchida por Arthur e Felipe em commits próprios.
 
 #### Feedback de Arthur Costa de Paulo
 
-- Qualidade e consistência dos perfis digitais:
-- Clareza e viabilidade do Plano de Carreira:
-- Coerência do PDI com Engenharia de Dados:
-- Sugestão concreta de melhoria:
+- Qualidade dos perfis digitais:
+- Clareza do Plano de Carreira:
+- Coerência do PDI:
+- Sugestão de melhoria:
 
 #### Feedback de Felipe Gonçales de Souza Moura
 
-- Qualidade e consistência dos perfis digitais:
-- Clareza e viabilidade do Plano de Carreira:
-- Coerência do PDI com Engenharia de Dados:
-- Sugestão concreta de melhoria:
+- Qualidade dos perfis digitais:
+- Clareza do Plano de Carreira:
+- Coerência do PDI:
+- Sugestão de melhoria:
 
